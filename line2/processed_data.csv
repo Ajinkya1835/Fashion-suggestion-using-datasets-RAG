@@ -1,0 +1,101 @@
+gender,outfit_style,wardrobe_type,footwear,lifestyle_activity,text_features
+Female,Sporty,Jeans,Heels,Shopping,Female Sporty Jeans Heels Shopping
+Male,Bohemian,Suit,Sneakers,Office Work,Male Bohemian Suit Sneakers Office Work
+Other,Bohemian,Dress,Sandals,Hiking,Other Bohemian Dress Sandals Hiking
+Male,Streetwear,T-shirt,Heels,Gym,Male Streetwear T-shirt Heels Gym
+Male,Formal,Jumpsuit,Sneakers,Sports,Male Formal Jumpsuit Sneakers Sports
+Non-binary,Casual,Jeans,Heels,Shopping,Non-binary Casual Jeans Heels Shopping
+Other,Sporty,Hoodie,Flats,Hiking,Other Sporty Hoodie Flats Hiking
+Male,Formal,Dress,Flats,Casual Outing,Male Formal Dress Flats Casual Outing
+Female,Vintage,Shorts,Dress Shoes,Casual Outing,Female Vintage Shorts Dress Shoes Casual Outing
+Male,Formal,Dress,Sneakers,Travel,Male Formal Dress Sneakers Travel
+Other,Athleisure,Hoodie,Loafers,Sports,Other Athleisure Hoodie Loafers Sports
+Other,Casual,Suit,Running Shoes,Hiking,Other Casual Suit Running Shoes Hiking
+Non-binary,Formal,Shorts,Running Shoes,Shopping,Non-binary Formal Shorts Running Shoes Shopping
+Female,Bohemian,Tracksuit,Running Shoes,Casual Outing,Female Bohemian Tracksuit Running Shoes Casual Outing
+Non-binary,Streetwear,Jeans,Dress Shoes,Travel,Non-binary Streetwear Jeans Dress Shoes Travel
+Female,Sporty,Blazer,Dress Shoes,Travel,Female Sporty Blazer Dress Shoes Travel
+Male,Business Casual,Sweater,Heels,Beach,Male Business Casual Sweater Heels Beach
+Other,Casual,Jeans,Flip-flops,Travel,Other Casual Jeans Flip-flops Travel
+Other,Bohemian,T-shirt,Heels,Beach,Other Bohemian T-shirt Heels Beach
+Other,Formal,Tracksuit,Flip-flops,Party,Other Formal Tracksuit Flip-flops Party
+Female,Formal,Jumpsuit,Loafers,Travel,Female Formal Jumpsuit Loafers Travel
+Other,Business Casual,Tracksuit,Flip-flops,Shopping,Other Business Casual Tracksuit Flip-flops Shopping
+Male,Business Casual,Blazer,Sandals,Beach,Male Business Casual Blazer Sandals Beach
+Male,Streetwear,Dress,Dress Shoes,Sports,Male Streetwear Dress Dress Shoes Sports
+Female,Formal,Shorts,Flip-flops,Casual Outing,Female Formal Shorts Flip-flops Casual Outing
+Non-binary,Vintage,Hoodie,Dress Shoes,Sports,Non-binary Vintage Hoodie Dress Shoes Sports
+Female,Streetwear,Sweater,Running Shoes,Office Work,Female Streetwear Sweater Running Shoes Office Work
+Female,Bohemian,Blazer,Flats,Shopping,Female Bohemian Blazer Flats Shopping
+Female,Bohemian,Tracksuit,Flip-flops,Travel,Female Bohemian Tracksuit Flip-flops Travel
+Non-binary,Athleisure,Shorts,Dress Shoes,Gym,Non-binary Athleisure Shorts Dress Shoes Gym
+Male,Casual,Hoodie,Dress Shoes,Sports,Male Casual Hoodie Dress Shoes Sports
+Non-binary,Casual,Jumpsuit,Flats,Hiking,Non-binary Casual Jumpsuit Flats Hiking
+Other,Bohemian,Shorts,Loafers,Hiking,Other Bohemian Shorts Loafers Hiking
+Other,Athleisure,Jumpsuit,Sandals,Sports,Other Athleisure Jumpsuit Sandals Sports
+Female,Vintage,Hoodie,Heels,Office Work,Female Vintage Hoodie Heels Office Work
+Male,Business Casual,Jumpsuit,Flats,Gym,Male Business Casual Jumpsuit Flats Gym
+Male,Vintage,Blazer,Flip-flops,Gym,Male Vintage Blazer Flip-flops Gym
+Male,Bohemian,T-shirt,Sandals,Shopping,Male Bohemian T-shirt Sandals Shopping
+Other,Business Casual,Jumpsuit,Boots,Beach,Other Business Casual Jumpsuit Boots Beach
+Non-binary,Sporty,Blazer,Dress Shoes,Office Work,Non-binary Sporty Blazer Dress Shoes Office Work
+Other,Formal,Suit,Sneakers,Gym,Other Formal Suit Sneakers Gym
+Other,Vintage,Sweater,Dress Shoes,Office Work,Other Vintage Sweater Dress Shoes Office Work
+Other,Formal,Tracksuit,Loafers,Gym,Other Formal Tracksuit Loafers Gym
+Male,Sporty,Shorts,Flip-flops,Gym,Male Sporty Shorts Flip-flops Gym
+Non-binary,Bohemian,Hoodie,Sneakers,Beach,Non-binary Bohemian Hoodie Sneakers Beach
+Male,Formal,Shorts,Sneakers,Sports,Male Formal Shorts Sneakers Sports
+Female,Vintage,Jumpsuit,Flip-flops,Casual Outing,Female Vintage Jumpsuit Flip-flops Casual Outing
+Other,Sporty,Jumpsuit,Flats,Party,Other Sporty Jumpsuit Flats Party
+Non-binary,Streetwear,Tracksuit,Dress Shoes,Party,Non-binary Streetwear Tracksuit Dress Shoes Party
+Female,Streetwear,Shorts,Heels,Beach,Female Streetwear Shorts Heels Beach
+Other,Sporty,Sweater,Heels,Hiking,Other Sporty Sweater Heels Hiking
+Female,Sporty,Blazer,Flip-flops,Casual Outing,Female Sporty Blazer Flip-flops Casual Outing
+Male,Sporty,Hoodie,Flip-flops,Casual Outing,Male Sporty Hoodie Flip-flops Casual Outing
+Female,Business Casual,Tracksuit,Flip-flops,Gym,Female Business Casual Tracksuit Flip-flops Gym
+Female,Formal,Jumpsuit,Loafers,Hiking,Female Formal Jumpsuit Loafers Hiking
+Female,Formal,Blazer,Running Shoes,Office Work,Female Formal Blazer Running Shoes Office Work
+Non-binary,Sporty,Tracksuit,Loafers,Casual Outing,Non-binary Sporty Tracksuit Loafers Casual Outing
+Non-binary,Bohemian,Tracksuit,Heels,Gym,Non-binary Bohemian Tracksuit Heels Gym
+Non-binary,Vintage,Tracksuit,Flip-flops,Party,Non-binary Vintage Tracksuit Flip-flops Party
+Other,Bohemian,Tracksuit,Flip-flops,Office Work,Other Bohemian Tracksuit Flip-flops Office Work
+Male,Business Casual,Hoodie,Flats,Shopping,Male Business Casual Hoodie Flats Shopping
+Non-binary,Business Casual,Jumpsuit,Flip-flops,Sports,Non-binary Business Casual Jumpsuit Flip-flops Sports
+Female,Vintage,Dress,Boots,Hiking,Female Vintage Dress Boots Hiking
+Female,Athleisure,Hoodie,Dress Shoes,Gym,Female Athleisure Hoodie Dress Shoes Gym
+Other,Formal,Suit,Boots,Casual Outing,Other Formal Suit Boots Casual Outing
+Non-binary,Athleisure,Suit,Loafers,Hiking,Non-binary Athleisure Suit Loafers Hiking
+Male,Athleisure,Jeans,Sandals,Office Work,Male Athleisure Jeans Sandals Office Work
+Male,Streetwear,Hoodie,Sneakers,Gym,Male Streetwear Hoodie Sneakers Gym
+Female,Vintage,Tracksuit,Flip-flops,Gym,Female Vintage Tracksuit Flip-flops Gym
+Non-binary,Formal,Suit,Running Shoes,Travel,Non-binary Formal Suit Running Shoes Travel
+Female,Casual,T-shirt,Dress Shoes,Travel,Female Casual T-shirt Dress Shoes Travel
+Female,Bohemian,Jumpsuit,Sneakers,Office Work,Female Bohemian Jumpsuit Sneakers Office Work
+Female,Vintage,Hoodie,Loafers,Hiking,Female Vintage Hoodie Loafers Hiking
+Other,Vintage,Tracksuit,Running Shoes,Beach,Other Vintage Tracksuit Running Shoes Beach
+Male,Vintage,Blazer,Flip-flops,Beach,Male Vintage Blazer Flip-flops Beach
+Male,Bohemian,Tracksuit,Sneakers,Hiking,Male Bohemian Tracksuit Sneakers Hiking
+Male,Streetwear,Jumpsuit,Dress Shoes,Beach,Male Streetwear Jumpsuit Dress Shoes Beach
+Female,Formal,Jeans,Flats,Sports,Female Formal Jeans Flats Sports
+Non-binary,Business Casual,Tracksuit,Boots,Sports,Non-binary Business Casual Tracksuit Boots Sports
+Male,Casual,Tracksuit,Heels,Shopping,Male Casual Tracksuit Heels Shopping
+Non-binary,Casual,Tracksuit,Flip-flops,Travel,Non-binary Casual Tracksuit Flip-flops Travel
+Female,Streetwear,Dress,Sandals,Party,Female Streetwear Dress Sandals Party
+Non-binary,Sporty,Shorts,Loafers,Office Work,Non-binary Sporty Shorts Loafers Office Work
+Other,Casual,Dress,Heels,Sports,Other Casual Dress Heels Sports
+Non-binary,Vintage,Hoodie,Sandals,Casual Outing,Non-binary Vintage Hoodie Sandals Casual Outing
+Female,Casual,Shorts,Running Shoes,Travel,Female Casual Shorts Running Shoes Travel
+Female,Formal,Hoodie,Dress Shoes,Casual Outing,Female Formal Hoodie Dress Shoes Casual Outing
+Non-binary,Business Casual,Jumpsuit,Flip-flops,Casual Outing,Non-binary Business Casual Jumpsuit Flip-flops Casual Outing
+Male,Sporty,Hoodie,Flip-flops,Travel,Male Sporty Hoodie Flip-flops Travel
+Male,Streetwear,Jumpsuit,Sandals,Gym,Male Streetwear Jumpsuit Sandals Gym
+Female,Athleisure,Tracksuit,Dress Shoes,Office Work,Female Athleisure Tracksuit Dress Shoes Office Work
+Male,Business Casual,Hoodie,Loafers,Hiking,Male Business Casual Hoodie Loafers Hiking
+Female,Casual,Blazer,Flip-flops,Casual Outing,Female Casual Blazer Flip-flops Casual Outing
+Non-binary,Business Casual,T-shirt,Flats,Sports,Non-binary Business Casual T-shirt Flats Sports
+Other,Sporty,Shorts,Boots,Shopping,Other Sporty Shorts Boots Shopping
+Non-binary,Sporty,Hoodie,Dress Shoes,Beach,Non-binary Sporty Hoodie Dress Shoes Beach
+Other,Sporty,Tracksuit,Sneakers,Travel,Other Sporty Tracksuit Sneakers Travel
+Non-binary,Casual,Blazer,Boots,Travel,Non-binary Casual Blazer Boots Travel
+Female,Bohemian,Jumpsuit,Loafers,Gym,Female Bohemian Jumpsuit Loafers Gym
+Other,Athleisure,Jumpsuit,Flats,Gym,Other Athleisure Jumpsuit Flats Gym

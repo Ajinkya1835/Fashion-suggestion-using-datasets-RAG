@@ -1,0 +1,20 @@
+your_project/
+├── Fashion(Data Points) - Form responses 1.csv (original)
+├── cleaned_fashion_data.csv
+├── tfidf_matrix.pkl
+├── tfidf_features.pkl
+├── processed_data.csv
+├── preprocess.py
+├── feature_engineering.py
+├── recommend.py
+└── app.py
+
+
+
+pip install pandas scikit-learn flask streamlit
+
+python preprocess.py
+
+python feature_engineering.py
+
+python -m streamlit run app.py
